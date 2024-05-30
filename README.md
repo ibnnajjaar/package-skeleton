@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Abunooh Pvt. Ltd.](https://github.com/abunooh)
+- [Abunooh](https://github.com/ibnnajjaar)
 - [All Contributors](../../contributors)
 
 ## License
