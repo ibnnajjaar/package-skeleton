@@ -1,10 +1,10 @@
 {
-    "name": "javaabu/{your-package}",
+    "name": "abunooh/{your-package}",
     "description": "{package description}",
-    "homepage": "https://github.com/Javaabu/{your-package}",
+    "homepage": "https://github.com/Abunooh/{your-package}",
     "license": "MIT",
     "keywords": [
-        "javaabu",
+        "abunooh",
         "laravel",
         "{your_package}"
     ],
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "illuminate/support": "^9.0 || ^10.0 || ^11.0"
+        "php": "^8.2",
+        "illuminate/support": "^10.0 || ^11.0"
     },
     "require-dev": {
         "laravel/pint": "^1.14",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Javaabu\\{YourPackage}\\": "src/"
+            "Abunooh\\{YourPackage}\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Javaabu\\{YourPackage}\\Tests\\": "tests/"
+            "Abunooh\\{YourPackage}\\Tests\\": "tests/"
         }
     },
     "extra": {
@@ -40,7 +40,7 @@
         },
         "laravel": {
             "providers": [
-                "Javaabu\\{YourPackage}\\{YourPackage}ServiceProvider"
+                "Abunooh\\{YourPackage}\\{YourPackage}ServiceProvider"
             ]
         }
     },

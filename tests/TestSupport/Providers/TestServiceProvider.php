@@ -1,6 +1,6 @@
 <?php
 
-namespace Javaabu\{YourPackage}\Tests\TestSupport\Providers;
+namespace Abunooh\{YourPackage}\Tests\TestSupport\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

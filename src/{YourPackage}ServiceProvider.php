@@ -1,6 +1,6 @@
 <?php
 
-namespace Javaabu\{YourPackage};
+namespace Abunooh\{YourPackage};
 
 use Illuminate\Support\ServiceProvider;
 

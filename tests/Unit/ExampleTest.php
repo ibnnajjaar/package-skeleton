@@ -1,8 +1,8 @@
 <?php
 
-namespace Javaabu\{YourPackage}\Tests\Unit;
+namespace Abunooh\{YourPackage}\Tests\Unit;
 
-use Javaabu\{YourPackage}\Tests\TestCase;
+use Abunooh\{YourPackage}\Tests\TestCase;
 
 class ExampleTest extends TestCase
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Javaabu\{YourPackage}\Tests;
+namespace Abunooh\{YourPackage}\Tests;
 
 use Orchestra\Testbench\TestCase as BaseTestCase;
-use Javaabu\{YourPackage}\{YourPackage}ServiceProvider;
-use Javaabu\{YourPackage}\Tests\TestSupport\Providers\TestServiceProvider;
+use Abunooh\{YourPackage}\{YourPackage}ServiceProvider;
+use Abunooh\{YourPackage}\Tests\TestSupport\Providers\TestServiceProvider;
 
 abstract class TestCase extends BaseTestCase
 {
